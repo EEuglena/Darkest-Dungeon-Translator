@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Darkest-Dungeon-Translator/static/css/main.72138f28.css",
-    "main.js": "/Darkest-Dungeon-Translator/static/js/main.31062dc6.js",
+    "main.js": "/Darkest-Dungeon-Translator/static/js/main.88f3ba63.js",
     "index.html": "/Darkest-Dungeon-Translator/index.html",
     "main.72138f28.css.map": "/Darkest-Dungeon-Translator/static/css/main.72138f28.css.map",
-    "main.31062dc6.js.map": "/Darkest-Dungeon-Translator/static/js/main.31062dc6.js.map"
+    "main.88f3ba63.js.map": "/Darkest-Dungeon-Translator/static/js/main.88f3ba63.js.map"
   },
   "entrypoints": [
     "static/css/main.72138f28.css",
-    "static/js/main.31062dc6.js"
+    "static/js/main.88f3ba63.js"
   ]
 }
