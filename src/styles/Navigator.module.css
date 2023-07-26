@@ -1,0 +1,24 @@
+.container {
+	width: 100%;
+	margin-bottom: 1rem;
+	padding: 1rem 0;
+	display: flex;
+	justify-content: center;
+	border-top: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
+	background-color: #eee;
+}
+
+.container a {
+	text-align: center;
+	text-decoration: none;
+	margin: 0 2rem;
+	padding: 0 0.5rem;
+	font-size: 1.2rem;
+	border-bottom: 1px solid black;
+	color: inherit;
+}
+
+.container a:visited {
+	color: inherit;
+}

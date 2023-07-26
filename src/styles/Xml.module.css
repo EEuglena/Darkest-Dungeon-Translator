@@ -1,0 +1,56 @@
+.container {
+	margin: 1rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.container * {
+	font-family: "Noto Sans KR";
+}
+
+.container h2 {
+	margin: 0;
+}
+
+.container input[type="file"]::-webkit-file-upload-button {
+	font-family: "Noto Sans KR";
+}
+
+.dropbox {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	width: 20rem;
+	height: 15rem;
+	border: 2px dashed #777;
+	background-color: #eee;
+	margin: 0.5rem;
+}
+
+.active {
+	background-color: #bbb;
+}
+
+.options {
+	margin: 1rem;
+}
+
+.options label {
+	display: inline-flex;
+	margin-bottom: 0.5rem;
+}
+
+.options p {
+	margin: 0 0.5rem 0 0;
+}
+
+select.input {
+	width: 10.5rem;
+}
+
+input.input {
+	width: 10rem;
+	margin-right: 0.5rem;
+}

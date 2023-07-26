@@ -1,0 +1,12 @@
+.header {
+	margin-left: 1rem;
+	display: flex;
+	align-items: center;
+}
+
+.header img {
+	width: 2rem;
+	height: 2rem;
+	border-radius: 2rem;
+	margin-right: 0.5rem;
+}

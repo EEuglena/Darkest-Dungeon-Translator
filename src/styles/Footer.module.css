@@ -1,0 +1,14 @@
+.footer {
+	margin-top: 5rem;
+	padding-top: 1rem;
+	border-top: 1px solid #bbb;
+	text-align: center;
+}
+
+.footer svg {
+	margin-right: 0.2rem;
+}
+
+.footer a {
+	color: inherit;
+}
