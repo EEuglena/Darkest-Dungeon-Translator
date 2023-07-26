@@ -98,6 +98,11 @@ const Xml = () => {
 			return;
 		}
 
+		if (endLanguage === "") {
+			alert("도착 언어를 선택해주세요.");
+			return;
+		}
+
 		try {
 			const startData = data.find(
 				(item) => item.id === startLanguage
