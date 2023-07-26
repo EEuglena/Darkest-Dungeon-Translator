@@ -149,7 +149,7 @@ const Xml = () => {
 
 	return (
 		<div className={styles.container}>
-			<h2>{fileName || "파일 드롭"}</h2>
+			<h2>{fileName || "XML 파일 드롭"}</h2>
 			<div
 				className={`${styles.dropbox} ${isDragOn && styles.active}`}
 				onDragOver={(event) => event.preventDefault()}
